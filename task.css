@@ -1,0 +1,16 @@
+.dropdown{
+    display: flex;
+    margin-left: 50%;
+    margin-top: 30%;
+
+}
+.button1{
+    margin-left: 20px;
+    
+}
+.select_input{
+    width: 200px;
+}
+.button2{
+background-color: blue;    
+}
